@@ -15,7 +15,7 @@ Hi there im chiheb and i am an embedded system engineer, i love robotics :robot:
  | PIC       | [###########------] | 
  |**OSs**
  | RTOS      | [###########------]  | 
- |Linux      |[###########------]|
+ |Linux embedded      |[###########------]|
  |Windows IOT| [####----------------]|
 
  
