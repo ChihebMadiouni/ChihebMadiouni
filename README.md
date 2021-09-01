@@ -8,6 +8,7 @@ Hi there im chiheb and i am an embedded system engineer, i love robotics :robot:
 | C /C++     | [#############---]  |
 | QT / QML   | [###########------]  | 
 | Python     | [##############--]   |
+| JAVA       | [##########--------]  |
 | **MCUs**   |  |
  |STM        | [###########------]   | 
  | ARM       | [###########------]  | 
