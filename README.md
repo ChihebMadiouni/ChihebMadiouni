@@ -1,5 +1,5 @@
 ## chiheb MADIOUNI
-Hi there im chiheb and i am an embedded system engineer, i love robotics :robot: and anything that have pins and solder on it. 
+Hi there im chiheb and i am an embedded system engineer, i love robotics :robot: and anything that has pins and solder . 
 
 ## Skills and Experiance
 |  |  |
