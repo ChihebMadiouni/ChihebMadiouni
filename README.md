@@ -1,11 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+ <h1 align="center">Hey 👋What's Up? I'm Chiheb Madiouni!</h1>
+
+Embedded Systems Engineer 🚀 | Robotics Enthusiast 🤖 | Soldering Addict ⚙️
+
+I design, build, and tinker with hardware that comes alive think MCUs, RTOS, and robots that move! From STM32 prototypes to Linux-embedded projects, I love turning pins and code into real-world magic.
 
 ###
-
-<div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/e3effbda-560e-40b2-b43a-b1d9ca66d832"  />
-</div>
-
 ###
 
 <div>
@@ -13,6 +12,11 @@
 </div>
 
 ###
+<!-- <div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/e3effbda-560e-40b2-b43a-b1d9ca66d832"  />
+</div> -->
+<h1 align= "left" >🛠️ Tech Stack </h1>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -34,22 +38,13 @@
  
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
+<h1 align ="left"> 📊 GitHub Stats </h1>
+<div align="left">
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=ChihebMadiouni&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+  ![ChihebMadiouni trophies](https://github-profile-trophy.vercel.app/?username=ChihebMadiouni&theme=flat&row=1&column=6&no-frame=true)
   <img src="https://github-profile-trophy.vercel.app?username=ChihebMadiouni&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -62,5 +57,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChihebMadiouni/ChihebMadiouni/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChihebMadiouni/ChihebMadiouni/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+<h1 align ="left"> 🌐 Let's Connect!</h1> 
+Thanks for stopping by! Let's build something awesome together.
+
+<div align="center">
+  <a href="www.linkedin.com/in/chiheb-madiouni-404a14136"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href ="https://www.facebook.com/Chihebmad"><img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook"  />
+  
+</div>
 
 ###
