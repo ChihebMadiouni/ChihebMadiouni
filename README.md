@@ -8,7 +8,7 @@ I design, build, and tinker with hardware that comes alive think MCUs, RTOS, and
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@ I design, build, and tinker with hardware that comes alive think MCUs, RTOS, and
 Thanks for stopping by! Let's build something awesome together.
 
 <div align="center">
-  <a href="www.linkedin.com/in/chiheb-madiouni-404a14136"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/chiheb-madiouni-404a14136"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   <a href ="https://www.facebook.com/Chihebmad"><img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook"  />
   
 </div>
