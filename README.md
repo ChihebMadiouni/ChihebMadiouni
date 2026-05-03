@@ -30,10 +30,15 @@ I design, build, and tinker with hardware that comes alive think MCUs, RTOS, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ <img width="12" />
   <img width="40" height="40" alt="stm32" src="https://github.com/user-attachments/assets/3454b674-11f8-46b8-9f65-01e6e41dc761" />
+ <img width="12" />
   <img width="40" height="40" alt="TI" src="https://github.com/user-attachments/assets/5a413d9f-22bd-43f7-a6fa-63263f7ca6f6" />
+ <img width="12" />
   <img width="40" height="40" alt="NXP" src="https://github.com/user-attachments/assets/62f7c24a-ff8d-4207-9716-c9e94dd1d3b1" />
+ <img width="12" />
   <img width="40" height="40" alt="ESP" src="https://github.com/user-attachments/assets/9a6981e7-316b-4563-a15d-e884ae5c1f56" />
+ <img width="12" />
   <img width="40" height="40" alt="raspberrry" src="https://github.com/user-attachments/assets/1927be77-81d5-4201-a5b6-c794ac03c1c9" />
  
 </div>
@@ -45,7 +50,7 @@ I design, build, and tinker with hardware that comes alive think MCUs, RTOS, and
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=ChihebMadiouni&theme=dracula&mode=weekly)](https://git.io/streak-stats)
   ![ChihebMadiouni trophies](https://github-profile-trophy.vercel.app/?username=ChihebMadiouni&theme=flat&row=1&column=6&no-frame=true)
-  <img src="https://github-profile-trophy.vercel.app?username=ChihebMadiouni&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 
